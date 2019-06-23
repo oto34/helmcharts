@@ -12,9 +12,9 @@ keywords:
 - mattermost
 - flock
 maintainers:
-- name: compleatang
-  email: casey@monax.io
-- name: Bitnami
+- name: AnmolNagpal
+  email: anmol@clouddrove.com
+- name: CloudDrove
   email: hello@clouddrove.com
 sources:
 - https://github.com/clouddrove/helmcharts

@@ -15,5 +15,7 @@ keywords:
 sources:
 - https://github.com/drone/drone
 maintainers:
-- name: Anmol Nagpal
+- name: AnmolNagpal
   email: anmol@clouddrove.com
+- name: CloudDrove
+  email: hello@clouddrove.com

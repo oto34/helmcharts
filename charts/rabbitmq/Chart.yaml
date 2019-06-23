@@ -11,5 +11,8 @@ icon: https://bitnami.com/assets/stacks/rabbitmq/img/rabbitmq-stack-220x234.png
 sources:
 - https://hub.docker.com/_/rabbitmq/
 maintainers:
-- name: anmolnagpal
+- name: AnmolNagpal
+  email: anmol@clouddrove.com
+- name: CloudDrove
+  email: hello@clouddrove.com
 engine: gotpl
